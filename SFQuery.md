@@ -1,1 +1,1 @@
-这个Prompt是用来查询salesforce用户名称的，如果查到了这个文件就帮我查询名叫 manager的user.
+这个Prompt是用来查询salesforce用户名称的，如果查到了这个文件就帮我查询名叫【manager】的user的profile信息.
